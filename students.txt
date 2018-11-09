@@ -1,0 +1,7 @@
+2003130001  iuiu    Sichuan Lixia   01/23/93    89  87  88  72  325 81
+2003130002  kiko    Henan   lixia   01/23/93    78  77  88  99  280 70
+2001313003  Anita   Jiangsu Luolei  12/25/94    77  81  83  86  321 80
+2003130004  Jancie  Shang   Jingan  11/11/94    78  98  81  78  332 84
+2004130005  Vivi    Xian    Tangwei 07/12/94    56 78   80  45  259 65
+2001130006  Rachael Yunnan  Guizhou 08/08/95    87  76  69  88  321 80
+

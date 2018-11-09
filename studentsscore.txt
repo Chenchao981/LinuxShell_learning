@@ -1,0 +1,6 @@
+111 kiko 1 78
+222 vivi 2 80
+333 jancie 3 98
+444 karen 4 100
+555 cat 5 43
+666 john 6 60
