@@ -1,0 +1,14 @@
+http://baijiahao.baidu.com/s?id=1597809303775176940&wfr=spider&for=pc
+
+虚拟机网络编辑器
+
+在虚拟机网络编辑器中选择还原默认设置
+
+接下来开启CentOS7虚拟机
+
+接着在终端输入vim/etc/sysconfig/network-scripts/ifcfg-ensXXXX
+重点设置BOOTPROTO=dhcp，ONBOOT=yes
+
+：wq  保存退出
+
+重启网络  service network restart
